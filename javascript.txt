@@ -1,3 +1,5 @@
 
 javascript is a programming
 language.
+ 
+ javascript is a dynamic language.
